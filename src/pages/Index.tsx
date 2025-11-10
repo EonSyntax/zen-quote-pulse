@@ -106,7 +106,7 @@ const Index = () => {
         </div>
       </div>
 
-      <div className="mt-8 text-white text-sm">by hezag</div>
+      <div className="mt-8 text-white text-sm">by eonsyntax</div>
     </div>
   );
 };
